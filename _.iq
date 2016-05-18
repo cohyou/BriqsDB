@@ -1,0 +1,5 @@
+(load 1 "po")
+;(bucket "po")
+;(save (uuid) "po")
+;(list "agnt" "role" "clst" "spot" "work" "post")
+;(list (~ F) T N 1234)
